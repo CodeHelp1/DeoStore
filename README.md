@@ -28,6 +28,9 @@ I have created an online store named " DeoStore " using HTML, CSS, and JAVASCRIP
 ### Primary Azure Technology : 
 Static Web Apps, Web Apps
 
+### Azure Account Screenshot
+![Screenshot 2023-02-21 210458](https://user-images.githubusercontent.com/113056235/220394605-aa9dac68-5ebc-4dfe-896b-5f1951d21a16.png)
+
 ### DeoStore Web Demo Picture
 ![Screenshot 2023-02-21 210917](https://user-images.githubusercontent.com/113056235/220393129-7627dd4e-69ef-40ae-8a0f-b6f80b5c744d.png)
 ![Screenshot 2023-02-21 211011](https://user-images.githubusercontent.com/113056235/220393147-1ffbef8d-a7b6-4b1f-99f1-d0de5e3b59a2.png)
