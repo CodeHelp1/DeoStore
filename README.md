@@ -15,6 +15,7 @@
 DeoStore E-Commerce  
 
  ### Azure Project Link :
+ https://polite-ground-0f7dc6810.2.azurestaticapps.net/
 
 ### Problem Statement/Opportunity :
 
